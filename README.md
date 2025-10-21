@@ -1,3 +1,7 @@
+<div align="center">
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=120&section=header)
+</div>
+
 <h1 align="center">Hello 👋, I'm VL_PLAY</h1>
 <h3 align="center">A solo developer creating games and software</h3>
 
@@ -57,17 +61,12 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VLPLAY-Games/VLPLAY-Games/output/github-snake.svg" alt="Snake animation" />
-</p>
-
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vlplay-games&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="vlplay-games" />
 </p>
 
 ### 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.youtube.com/@VLPLAYGames" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vl_play games" height="40" width="40" />
   </a>
@@ -78,5 +77,10 @@
     <img align="center" src="https://static.itch.io/images/itchio-textless-white.svg" alt="itch.io" height="40" width="40" />
   </a>
 </p>
+
+
+<div align="center">
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=120&section=footer)
+</div>
 
 ---
