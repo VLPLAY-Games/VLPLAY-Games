@@ -61,16 +61,16 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vlplay-games&show_icons=true&locale=en&layout=compact&theme=radical&hide=shaderlab,hlsl" alt="vlplay-games" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vlplay-games&show_icons=true&locale=en&theme=radical" alt="vlplay-games" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vlplay-games&show_icons=true&locale=en&layout=compact&theme=radical&hide=shaderlab,hlsl" alt="vlplay-games" width="325" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vlplay-games&show_icons=true&locale=en&theme=radical" alt="vlplay-games" width="425" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vlplay-games&theme=radical" alt="vlplay-games" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vlplay-games&theme=radical" alt="vlplay-games" width="425" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vlplay-games&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="vlplay-games" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vlplay-games&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="vlplay-games" width="425" />
 </p>
 
 ---
