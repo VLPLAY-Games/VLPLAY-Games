@@ -56,10 +56,10 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vlplay-games&theme=radical" alt="vlplay-games" />
 </p>
 
-<!-- Snake Game Contribution Graph -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VLPLAY-Games/VLPLAY-Games/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/VLPLAY-Games/VLPLAY-Games/output/github-snake.svg" alt="Snake animation" />
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vlplay-games&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="vlplay-games" />
