@@ -20,7 +20,7 @@
 
 
 - 🎮 **Game & Software Developer**
-- 🔭 Currently work on **[XenoOS](https://github.com/VLPLAY-Games/XenoOS)**
+- 🔭 Currently work on **[XenoOS](https://github.com/VLPLAY-Games/XenoOS)** and **[Xeno Language](https://github.com/VLPLAY-Games/Xeno-Language)**
 - 🌱 Learning **compiler design & language development**
 - 🎯 2025 Goals: **Release a new programming language**
 - ⚡ Fun fact: **I'm learning Japanese! こんにちは！**
