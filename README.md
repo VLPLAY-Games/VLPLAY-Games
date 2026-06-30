@@ -20,9 +20,9 @@
 
 
 - 🎮 **Game & Software Developer**
-- 🔭 Currently work on **[XenoOS](https://github.com/VLPLAY-Games/XenoOS)** and **[Xeno Language](https://github.com/VLPLAY-Games/Xeno-Language)**
+- 🔭 Currently work on **FrameOS** and **[Yuki Ecosystem](https://github.com/VLPLAY-Games/yuki-system)**
 - 🌱 Learning **compiler design & language development**
-- 🎯 2025 Goals: **Release a new programming language**
+- 🎯 2026 Goals: **Release a Yuki Ecosystem ❄️**
 - ⚡ Fun fact: **I'm learning Japanese! こんにちは！**
 
 ---
