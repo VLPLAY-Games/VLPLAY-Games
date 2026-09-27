@@ -61,6 +61,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
   <img src="https://api.iconify.design/vscode-icons:file-type-assembly-script.svg" alt="assembly" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="figma" width="50" height="50"/>
 </p>
 
 ---
