@@ -20,7 +20,8 @@
 
 
 - 🎮 **Game & Software Developer**
-- 🔭 Currently work on **FrameOS** and **[Yuki Ecosystem](https://github.com/VLPLAY-Games/yuki-system)**
+- 🖥️ Currently building **LufiraOS** — a 64-bit OS with preemptive multitasking, mmap, libc, and a custom package manager
+- ❄️ Also working on **[Yuki Ecosystem](https://github.com/VLPLAY-Games/yuki-system)** — modular ecosystem for smart devices
 - 🌱 Learning **compiler design & language development**
 - 🎯 2026 Goals: **Release a Yuki Ecosystem ❄️**
 - ⚡ Fun fact: **I'm learning Japanese! こんにちは！**
@@ -55,6 +56,18 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/>
 </p>
+
+<h4 align="center">Learning</h4>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
+  <img src="https://api.iconify.design/vscode-icons:file-type-assembly-script.svg" alt="assembly" width="50" height="50"/>
+</p>
+
+---
+
+### 🔥 Featured Projects
+- **[LufiraOS](https://github.com/VLPLAY-Games/LufiraOS)** — 64-bit OS with UEFI bootloader, ELF loader, preemptive multitasking, and a custom filesystem. Written in C and Assembly.
+- **[Yuki System](https://github.com/VLPLAY-Games/yuki-system)** — Modular ecosystem for smart devices.
 
 ---
 
